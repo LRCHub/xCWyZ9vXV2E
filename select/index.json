@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "強くなっちゃったんだ、ブルー - Getting Stronger, but so blue",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-03-18T04:01:32.546467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "強くなっちゃったんだ、ブルー",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/01_強くなっちゃったんだ、ブルー_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "強くなっちゃったんだ、ブルー",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/02_強くなっちゃったんだ、ブルー_Aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "強くなっちゃったんだ、ブルー",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_強くなっちゃったんだ、ブルー_あいみょん.txt"
+    }
+  ]
+}
